@@ -77,8 +77,8 @@ work, and the way in which words are ordered.
 Not every word has a direct translation in every language. There are many
 cases where the meaning of a word will vary greatly because of the context
 that the word is in. Furthermore, some words may have more than one corresponding
-word—the well known myth of the number of <Eskimo words for snow|
-http://en.wikipedia.org/wiki/Eskimo_words_for_snow>, wis relevant here.
+word—the well known myth of the number of L<Eskimo words for snow|
+http://en.wikipedia.org/wiki/Eskimo_words_for_snow>, is relevant here.
 A concept which may be defined by a single word in the original
 language may have many different corresponding words in the target language,
 be it because the target language is more nuanced in general or because the 
